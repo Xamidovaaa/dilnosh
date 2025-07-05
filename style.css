@@ -1,0 +1,65 @@
+.lion{
+    width: 650px;
+    height: 400px;
+}
+.red{
+    color: red;
+}
+.green{
+color: green;
+}
+.gren{
+    background-color: yellow;
+    color: green;
+}
+.grey{
+    background-color: yellow;
+    color: green;
+}
+h1{
+    background-color: cornflowerblue;
+    color: black;
+    border-radius: 20px;
+    border: 1px solid red;
+}
+.thre{
+    color: green;
+}
+.ooo{
+    color: black;
+}
+.yellow{
+    color: green;
+}
+button{
+   color: white;
+    background-color: cornflowerblue;
+    width: 150px;
+}
+table, th, td{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+   
+.three{
+    background-color: green;
+}
+.four{
+    background-color: blue;
+}
+.five{
+    background-color: red;
+}
+.six{
+    background-color: black;
+    color: white;  
+}
+.box{
+color: green;
+background-color: yellow;
+text-align: center
+}
+.gstatic{
+    width: 80%;
+    text-align: center;
+}
